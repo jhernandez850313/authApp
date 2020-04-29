@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "authApp"
+    }
+  },
+  "defaultProject": "authApp",
+  "cli": {
+    "analytics": "5fb811b5-84a7-4892-a7fe-1b48cd53e7b3"
+  }
 }
